@@ -1,0 +1,19 @@
+{
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A fully automated bot to farm the Jaine App airdrop on the 0G Labs testnet. It performs randomized token swaps (BTC to USDT or ETH) using multiple wallets, handles ERC-20 allowances, and pushes daily onchain activity to simulate human behavior—ideal for maximizing testnet airdrop eligibility",
+  "name": "auto-swap-jaine-app-0g-labs",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "web3": "^4.0.0"
+  }
+}
