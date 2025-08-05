@@ -29,7 +29,7 @@ It simulates organic, human-like usage activity across multiple wallets, helping
 git clone https://github.com/larforshi/0G-labs-auto-swap.git
 ```
 ```bash
-cd auto-swap-jaine-app-0g-labs
+cd 0G-labs-auto-swap
 ```
 ### 2. Install dependencies:
 ```bash
