@@ -26,7 +26,7 @@ It simulates organic, human-like usage activity across multiple wallets, helping
 
 ### 1. Clone this repository:
 ```bash
-git clone https://github.com/forcetwoq/auto-swap-jaine-app-0g-labs.git
+git clone https://github.com/larforshi/0G-labs-auto-swap.git
 ```
 ```bash
 cd auto-swap-jaine-app-0g-labs
